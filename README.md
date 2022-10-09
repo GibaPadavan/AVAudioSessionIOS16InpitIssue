@@ -73,7 +73,7 @@ outputs = (
     "<AVAudioSessionPortDescription: 0x283710600, type = Receiver; name = Receiver; UID = Built-In Receiver; selectedDataSource = (null)>"
 )>
 ```
-This is perfectly fine. Then I attach the iRig device (which is basibally the external microphone) and I have the following log:
+This is perfectly fine. Then I attach the iRig device (which is basically the external microphone) and I have the following log:
 
 ```
 HANDLE ROUTE CHANGE
@@ -148,7 +148,7 @@ outputs = (
     "<AVAudioSessionPortDescription: 0x2813cc6b0, type = Speaker; name = Speaker; UID = Speaker; selectedDataSource = (null)>"
 )>
 ```
-Then I attach the iRig device (which is basibally the external microphone) and I have the following log:
+Then I attach the iRig device (which is basically the external microphone) and I have the following log:
 
 ```
 HANDLE ROUTE CHANGE
