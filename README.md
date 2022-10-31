@@ -1,5 +1,8 @@
 # AVAudioSessionIOS16InpitIssue
 
+### UPDATE:
+Apple released iOS 16.1 ad it looks that this issue is fixed there.
+
 ### What this is about:
 I have an iOS "Guitar Effect" app that gets audio signal from input, process it and plays the result audio back to user via output. The app dosn't work with BuiltIn microphone of iOS device (because of feedback) - users have to connect guitar via special device: either analog like [iRig](https://www.ikmultimedia.com/products/irig2/?pkey=irig-2) or digital like [iRig HD](https://www.ikmultimedia.com/products/irighd2/?pkey=irig-hd-2).
 
